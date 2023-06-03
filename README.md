@@ -1,16 +1,9 @@
-# namer_app
 
-A new Flutter project.
+# Exercicios - Flutter + Dart
 
-## Getting Started
+Este repositório contém exercícios sobre dart e flutter da matéria de Desenvolvimento de Sistemas de informação I
+- Os exercícios estão divididos por branchs
 
-This project is a starting point for a Flutter application.
+## Items concluídos:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [X]  Tópico 1 - primeiro aplicativo em Flutter
